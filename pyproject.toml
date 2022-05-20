@@ -6,7 +6,7 @@ authors = ["Khasbilegt.TS <khasbilegt.ts@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-notebook = "^6.0.3"
+notebook = "^6.4.10"
 pandas = "^1.0.3"
 opencv-python = "^4.2.0"
 matplotlib = "^3.2.1"
